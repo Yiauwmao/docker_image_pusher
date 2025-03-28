@@ -6,3 +6,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #xilinx/vitis-ai-tensorflow-cpu:ubuntu2004-3.0.0.091
 xilinx/vitis-ai-pytorch-cpu:ubuntu2004-3.0.0.106
+
+
+
